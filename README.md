@@ -2,4 +2,10 @@
 ## show
 ```
 show ?
+show version
+```
+
+## 特権モード
+```
+enable
 ```
