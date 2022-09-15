@@ -5,8 +5,8 @@
 - exit	ひとつ前へ移動
 - end	コンフィギュレーションから特権EXECへ
 - configure terminal	グローバルコンフィギュレーションモードへ
-- - interface	インターフェースコンフィギュレーションモードへ
-- - line	ラインコンフィギュレーションモードへ
+- interface	インターフェースコンフィギュレーションモードへ
+- line	ラインコンフィギュレーションモードへ
 
 ## 参考URL
 https://beginners-network.com/cisco-catalyst-command/
